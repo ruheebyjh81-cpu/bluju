@@ -1,0 +1,6 @@
+{
+  "name": "김주희 사용설명서",
+  "description": "AI와 함께 끊임없이 배우고 만드는 AI Maker 김주희의 인터랙티브 나 사용설명서 (User Manual)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
